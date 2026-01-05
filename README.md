@@ -17,9 +17,13 @@ It ensures faster access to library data and improves overall library administra
 ## 📸 Screenshots
 ![a](https://github.com/24B11CS207/Library-Management-System/blob/main/one.jpg)
 
+
 ![b](https://github.com/24B11CS207/Library-Management-System/blob/main/two.jpg)
 
+
+
 ![c](https://github.com/24B11CS207/Library-Management-System/blob/main/three.jpg)
+
 
 ## ⚙️ How to Run the Project
 
